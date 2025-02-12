@@ -611,7 +611,7 @@
         </rdfs:subClassOf>
         <terms:description xml:lang="en">The Concepts define the elements of a business plan.</terms:description>
         <rdfs:comment xml:lang="en">The main concepts of the business plans are its Ends and Means. Each concept has only two basic attributes: identifier and text description.</rdfs:comment>
-        <rdfs:label xml:lang="en">Concept</rdfs:label>
+        <rdfs:label xml:lang="en">BMM Concept</rdfs:label>
     </owl:Class>
     
 
